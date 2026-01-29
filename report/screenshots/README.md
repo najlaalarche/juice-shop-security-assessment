@@ -37,7 +37,7 @@ the server accepts all input and decides the reponse.
 
 - also, in all the input typed -> i see my input displayed back on the page  -> reflection -> unsafe relflection ?
 
-- i searched for <test> ( adding a marker ):
+- i searched for "<test>" ( adding a marker ):
 <img width="474" height="391" alt="image" src="https://github.com/user-attachments/assets/4905a627-9108-4465-b960-fdf367b8c752" />
 - it is removed
 - The application (or browser) is interpreting <test> as HTML, not as plain text.
